@@ -2,6 +2,23 @@
 
 **Final internship assessment | Deccan Harvest Foods Pvt. Ltd. (fictional) | April–September 2026 simulated period**
 
+## Six-Assessment Portfolio Navigation
+
+This assessment is part of my six-assessment SAP SCM internship portfolio. The series is structured as one connected learning journey from network planning through performance improvement.
+
+| Week | Assessment | Repository |
+|---|---|---|
+| 1 | Supply Chain Network Planning | [Open Week 1](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Supply-Chain-Network-Planning) |
+| 2 | Master Data & Inventory Optimization | [Open Week 2](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Master-Data-Inventory-Optimization) |
+| 3 | Logistics & Distribution Network Design | [Open Week 3](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Logistics-Distribution-Network-Design) |
+| 4 | Production Planning & Scheduling Analysis | [Open Week 4](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Week4-Production-Planning-Scheduling-Analysis) |
+| 5 | Supply Chain Integration & Collaboration | [Open Week 5](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Week5-Supply-Chain-Integration-Collaboration) |
+| 6 | Performance Evaluation & Continuous Improvement | [Open Week 6](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Week6-Performance-Evaluation-Continuous-Improvement) |
+
+**Central portfolio hub:** [SAP-SCM-Internship-Portfolio](https://github.com/hrudhaipremkumarpatwari/SAP-SCM-Internship-Portfolio) — the central index for the complete series.
+
+
+
 This repository contains a KPI-based performance evaluation and continuous-improvement proposal for a fictional millet-based ready-to-cook food manufacturer. It brings together supply-chain themes from earlier assessments—demand, procurement, inventory, production scheduling, distribution, integration, and exception handling—into one review and improvement plan.
 
 ## Assessment objectives
